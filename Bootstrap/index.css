@@ -1,0 +1,5 @@
+@media (min-width: 768px) {
+    .custom-col {
+      max-width: 600px;
+    }
+  }
